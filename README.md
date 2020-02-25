@@ -9,12 +9,15 @@ Hi! In the notebook, we will start our text mining journey by scraping a list of
 * https://www.tirto.id
 * https://www.detik.com
 
-### About Word2Vec
-* https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa
-* https://radimrehurek.com/gensim/models/word2vec.html
-
 ### Stopwords List
 * https://github.com/har07/PySastrawi
 * https://github.com/pebbie/pebahasa/blob/master/indonesian
 * https://github.com/aliakbars/bilp/blob/master/stoplist
 * http://web.archive.org/web/20120608052057/http://fpmipa.upi.edu/staff/yudi/stop_words_list.txt
+
+### About Word2Vec
+* https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa
+* https://radimrehurek.com/gensim/models/word2vec.html
+
+### External Media
+* china-map.png: https://upload.wikimedia.org/wikipedia/commons/9/97/Flag_map_of_China_%26_Taiwan.png
